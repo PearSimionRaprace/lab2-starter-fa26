@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 
 int contains(int item, int arr[], int size) {
@@ -20,6 +19,3 @@ int main() {
 
     return 0;
 }
-=======
-Result: 1
->>>>>>> 0f9e5ae4b1cf134c580cdf6e86e3e0cd5a1b9e5c
